@@ -45,5 +45,5 @@ Currently when running the tests on headless mode a report will be generated usi
 
 ## TODO
 
-[ ] Adding more clear test ids
-[ ] Internalization 
+- Adding more clear test ids
+- Internalization 
