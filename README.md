@@ -41,3 +41,9 @@ Currently when running the tests on headless mode a report will be generated usi
 ![Cypress Test Harness Run](<Screenshot 2024-04-16 at 3.23.42 PM.png>)
 
 ![Report Example](<Screenshot 2024-04-16 at 3.35.12 PM.png>)
+
+
+## TODO
+
+[ ] Adding more clear test ids
+[ ] Internalization 
